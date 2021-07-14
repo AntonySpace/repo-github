@@ -1,0 +1,2 @@
+C:\workAlex\dz2\Debug\ConsoleApplication1.exe
+f:\dz2\Debug\ConsoleApplication1.exe
